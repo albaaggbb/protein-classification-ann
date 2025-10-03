@@ -117,6 +117,7 @@ Results will be saved in the `results/` folder.
 
 ## 📌 Project Structure
 
+```bash
 ├── data/
 │   ├── data3.csv
 │   └── class3.csv
@@ -133,7 +134,9 @@ Results will be saved in the `results/` folder.
 │   ├── summary_statistics.csv
 │   └── protein_expression_classification.html
 ├── requirements.txt
+├── .gitignore
 └── README.md
+```
 
 ## 👤 Author
 Project developed by Alba Górriz. 
